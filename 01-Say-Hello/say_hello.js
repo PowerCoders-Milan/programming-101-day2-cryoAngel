@@ -10,9 +10,8 @@ set the programm to prompt a greeting text
 */
 
 //insert your code below
-var greeting;
+var name2;
 
 
-greeting = 'welcome grace';
-window.alert(window.prompt('type your name'));
-window.alert(greeting);
+name2 = window.prompt('type your name');
+window.alert('welcome ' + String(name2));
