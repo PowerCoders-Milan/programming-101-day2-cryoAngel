@@ -1,8 +1,8 @@
 //insert your pseudocode below
 /*
 
-set the computer to generate a random number 
-then choose
+set the computer secret number 
+then a condition that do allow the user to prompt a true or false number
 
 
 */
